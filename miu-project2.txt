@@ -1,3 +1,4 @@
 git repository: https://github.com/b42576/
 git project branch: https://github.com/b42576/MIU-Project2/
-git live preview: http://b42576.github.io/MIU-Project2/
+git meaningful commit: https://github.com/b42576/MIU-Project2/commit/958128aeba9d0901b52b82ae3aad43cb54fe2ada
+// not yet // git live preview: http://b42576.github.io/MIU-Project2/
