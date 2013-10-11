@@ -10,9 +10,12 @@
         <meta name="description" content="Keep track of your shopping from your grocery shopping trips.">
         <meta name="robots" content="noindex, nofollow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <link rel="stylesheet" href="css/styles.css" type="text/css" />
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
     </head>
     <body>
+        <div data-role="header">
+            <h1>Pricebook App</h1>
+        </div>
         <div id="container">
         <h1>Add Pricebook Item</h1>
         <nav>
@@ -45,6 +48,17 @@
             <input type="submit" value="Add Item" id="submit"><br />
         </form>
         </div>
+            <div data-role="footer">
+    <div data-role="navbar" data-grid="c" data-iconpos="top">
+    <ul>
+        <li><a href="index.html" data-ajax="false" data-icon="home">Home</a></li>
+        <li><a href="browse.html" data-ajax="false" data-icon="grid">Browse</a></li>
+        <li><a href="additem.html" data-ajax="false" data-icon="plus" class="ui-btn-active">Add</a></li>
+        <li><a href="about.html" data-ajax="false" data-icon="info">About</a></li>
+    </ul>
+    </div>
+    </div>
+
         <script src="js/json.js" type="text/javascript"></script>
         <script src="js/main.js" type="text/javascript"></script>
     </body>
